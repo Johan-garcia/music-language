@@ -18,11 +18,7 @@ Realizado por: Marco Duarte, Elkin Benitez, Alejandro Caro, Johan Garcia.
 11. Búsqueda de Letras (Genius)  
 12. Recomendaciones por Idioma  
 13. Endpoints (Resumen)  
-14. Ejemplos de Uso (cURL)  
-15. Seguridad y Buenas Prácticas  
-16. Errores Comunes y Solución  
-17. Roadmap / Próximos Pasos  
-18. Licencia  
+14. Ejemplos de Uso (cURL)   
 
 ---
 
