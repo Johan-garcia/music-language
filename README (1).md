@@ -1,5 +1,7 @@
 # music-language (Backend)
 
+Creado por: Marco Duarte, Elkin Benitez, Alejandro Caro, Johan Garcia
+
 Plataforma backend (FastAPI) orientada a:
 - Gestión de usuarios.
 - Integración con Spotify (top tracks, artistas, búsqueda, recomendaciones).
